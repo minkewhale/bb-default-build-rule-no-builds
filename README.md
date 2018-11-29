@@ -1,0 +1,1 @@
+# bb-default-build-rule-no-builds
